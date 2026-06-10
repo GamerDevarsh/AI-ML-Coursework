@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+.venv/
+.venv_new/
+venv/
+env/
+rag/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files (can be regenerated)
+*.csv
+*.zip
+*.7z
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+*_files/

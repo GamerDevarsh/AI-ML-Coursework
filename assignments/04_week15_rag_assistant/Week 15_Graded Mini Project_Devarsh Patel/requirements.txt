@@ -1,0 +1,19 @@
+# Main Framework - Using compatible ranges to prevent conflicts
+langchain>=0.3.15,<0.4.0
+langchain-core>=0.3.31,<0.4.0
+langchain-community>=0.3.15,<0.4.0
+langchain-openai>=0.3.0,<0.4.0
+
+# Vector Database (Using the newer version available in your env)
+faiss-cpu>=1.13.0
+
+# Utilities
+python-dotenv>=1.0.1
+pypdf>=4.3.0
+tiktoken>=0.8.0
+
+# UI & Data
+streamlit>=1.41.0
+requests>=2.32.0
+pandas>=2.0.0
+numpy>=1.24.0

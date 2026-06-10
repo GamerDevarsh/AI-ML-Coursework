@@ -1,0 +1,42 @@
+[
+  {
+    "inputs": {
+      "question": "What should employees do if they are unsure based on current HR policies?"
+    },
+    "outputs": {
+      "reference_answer": "Employees should contact HR or rely on official company HR documents when policy information is unclear."
+    }
+  },
+  {
+    "inputs": {
+      "question": "What is the IT security policy on passwords?"
+    },
+    "outputs": {
+      "reference_answer": "Passwords should follow company security requirements and employees should comply with the IT usage and security policy."
+    }
+  },
+  {
+    "inputs": {
+      "question": "What should I do in case of a workplace safety incident?"
+    },
+    "outputs": {
+      "reference_answer": "Employees should follow workplace safety and emergency procedures and report the incident using the company process."
+    }
+  },
+  {
+    "inputs": {
+      "question": "Can you explain the leave and time off policy?"
+    },
+    "outputs": {
+      "reference_answer": "Leave and time off should be handled according to the official HR leave policy document."
+    }
+  },
+  {
+    "inputs": {
+      "question": "How does the chatbot respond when information is missing from the HR documents?"
+    },
+    "outputs": {
+      "reference_answer": "It should say: I'm not sure based on current HR policies."
+    }
+  }
+]
